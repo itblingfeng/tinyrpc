@@ -1,5 +1,6 @@
 <h2>A simple rpc framework based on netty4</h2>
-- tinyrpc module
+
+ - tinyrpc module
   - client 用于与server服务提供方通信
   - codec 用于消费方，服务提供方数据流的编解码
   - entity 用于消费方，服务提供方通信的实体
